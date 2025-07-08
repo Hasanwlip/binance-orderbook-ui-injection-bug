@@ -1,6 +1,6 @@
 <h1 align="center">🛡️ Binance Order Book UI Injection Bug</h1>
-![PoC_Screenshot](https://github.com/user-attachments/assets/6f06305b-d6dd-44e9-9aea-f0d6f5f6faf7)
 
+![PoC_Screenshot](https://github.com/user-attachments/assets/a8869ce2-b6c0-4a4c-931d-1984653e78a9)
 
 <p align="center">
   <strong>HACKED BY HASANWLIP - Proof of Concept (PoC)</strong><br>
