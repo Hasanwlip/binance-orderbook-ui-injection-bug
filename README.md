@@ -1,7 +1,5 @@
 <h1 align="center">🛡️ Binance Order Book UI Injection Bug</h1>
 
-![PoC_Screenshot](https://github.com/user-attachments/assets/a8869ce2-b6c0-4a4c-931d-1984653e78a9)
-
 <p align="center">
   <strong>HACKED BY HASANWLIP - Proof of Concept (PoC)</strong><br>
   ⚠️ A visual injection bug on Binance that allows arbitrary text rendering via the URL path.
